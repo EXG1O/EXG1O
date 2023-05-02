@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/EXG1O">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=2500&pause=1000&color=DD6387&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=60&lines=EXG1O+%26+Python+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=2500&pause=1000&color=DD6387&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=50&lines=EXG1O+%26+Python+Developer" />
 </a>
 
 <br/>
