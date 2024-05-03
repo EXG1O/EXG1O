@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/EXG1O">
-    <img src="https://github-readme-stats.vercel.app/api?username=exg1o&theme=catppuccin_mocha&show=reviews,prs_merged&hide=contribs,issues&show_icons=true&rank_icon=percentile&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=exg1o&theme=catppuccin_mocha&show=reviews,prs_merged&hide=contribs,issues&show_icons=true&rank_icon=percentile" />
   </a>
   <br>
   <a href="https://github.com/EXG1O?tab=repositories">
